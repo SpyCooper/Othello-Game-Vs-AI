@@ -6,4 +6,4 @@ This was a project for my Intro to Computer Science II class. The program is des
 - If the player cannot make a move, they can type "XX" into the move section to skip their turn, however, a player does this and can make a move, the game will return that there is a move that can be made and ask for a move to make
 - When entering a move, the letter case does not matter, so A1 and a1 will both be accepted by the program
 
-Note: some of the code in game.h and game.cc were already made by the teacher and were not coded by me.
+Note: some of the code in game.h and game.cc were already made by the teacher and were not coded by me, however, everything else was made by me.
