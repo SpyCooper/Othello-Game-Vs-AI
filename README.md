@@ -5,3 +5,5 @@ This was a project for my Intro to Computer Science II class. The program is des
 - All the normal rules of othello apply: you have to flank the enemy. The game ends when either both players cannot play or when the board is full and the person with the most pieces wins
 - If the player cannot make a move, they can type "XX" into the move section to skip their turn, however, a player does this and can make a move, the game will return that there is a move that can be made and ask for a move to make
 - When entering a move, the letter case does not matter, so A1 and a1 will both be accepted by the program
+
+Note: some of the code in game.h and game.cc were already made yby the teacher and were not coded by me.
