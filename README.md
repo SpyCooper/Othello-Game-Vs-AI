@@ -1,3 +1,4 @@
+# Othello Game (VS AI)
 This was a project for my Intro to Computer Science II class. The program is designed to do the following:
 - The idea behind this project is that when the program is run, it creates an othello board on the terminal against an AI. (I've also heard it called Reversi, if that clarifies this)
 - On the player's turn, it will display which turn it is and what the available moves are
@@ -7,3 +8,6 @@ This was a project for my Intro to Computer Science II class. The program is des
 - When entering a move, the letter case does not matter, so A1 and a1 will both be accepted by the program
 
 Note: some of the code in game.h and game.cc were already made by the teacher and were not coded by me, however, everything else was made by me.
+
+## To run the program
+To compile the code you only need to run "g++ samplemain.cc game.cc othello.cc". To run the program you just need to run "./a.exe" or "./a.out" depending on which system you are on.
